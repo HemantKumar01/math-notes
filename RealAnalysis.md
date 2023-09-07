@@ -4,8 +4,10 @@
 2. $a +b = b + a$  : **commutativity**
 3.  $a + a_\circ = a$ : **additive identity**
 4. $a + a' = 0$ : **additive inverse**
-5.  $a$
+5.  $a.(b+c) = a.b + a.c$ : **distributivity**
+
 similarly for multiplication. but don't divide by 0
+## 
 
 ### Cauchy Schwartz Inequality:
 $$
@@ -13,5 +15,5 @@ $$
 $$
 > Equality Exist only when $b_i = \lambda a_i \text{  }(\forall  a_i,b_i)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk1MDcyNSwxNTE4NTg5MTAyXX0=
+eyJoaXN0b3J5IjpbLTE3MTY5NDA3NTQsMTUxODU4OTEwMl19
 -->
