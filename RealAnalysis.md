@@ -1,7 +1,9 @@
 # Real Analysis 
 ## Order Props
-1. (a + b) + c = a + (b + c)  : **associativity**
-2. a +b = b + a  ****
+1. $(a + b) + c = a + (b + c)$  : **associativity**
+2. $a +b = b + a$  : **commutativity**
+3.  $a + a_\circ = a$ : **additive identity**
+4. $a + a' = 0$ : 
 
 ### Cauchy Schwartz Inequality:
 $$
@@ -9,5 +11,5 @@ $$
 $$
 > Equality Exist only when $b_i = \lambda a_i \text{  }(\forall  a_i,b_i)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk0NTI3NzUsMTUxODU4OTEwMl19
+eyJoaXN0b3J5IjpbLTU2NzI3OTU0NywxNTE4NTg5MTAyXX0=
 -->
