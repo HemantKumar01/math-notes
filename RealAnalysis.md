@@ -7,7 +7,8 @@
 5.  $a.(b+c) = a.b + a.c$ : **distributivity**
 
 similarly for multiplication. but don't divide by 0
-## 
+## Order Props
+1. 
 
 ### Cauchy Schwartz Inequality:
 $$
@@ -15,5 +16,6 @@ $$
 $$
 > Equality Exist only when $b_i = \lambda a_i \text{  }(\forall  a_i,b_i)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY5NDA3NTQsMTUxODU4OTEwMl19
+eyJoaXN0b3J5IjpbLTE2Mzg0OTkzNTksLTE3MTY5NDA3NTQsMT
+UxODU4OTEwMl19
 -->
