@@ -1,6 +1,7 @@
 # Real Analysis 
 ## Order Props
-
+1. (a + b) + c = a + (b + c)  : **associativity**
+2. a +b = b + a  ****
 
 ### Cauchy Schwartz Inequality:
 $$
@@ -8,5 +9,5 @@ $$
 $$
 > Equality Exist only when $b_i = \lambda a_i \text{  }(\forall  a_i,b_i)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjQ0NjIwNiwxNTE4NTg5MTAyXX0=
+eyJoaXN0b3J5IjpbLTE1ODk0NTI3NzUsMTUxODU4OTEwMl19
 -->
