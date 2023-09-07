@@ -1,5 +1,5 @@
 # Real Analysis 
-## Order Props
+## Algebraic Props
 1. $(a + b) + c = a + (b + c)$  : **associativity**
 2. $a +b = b + a$  : **commutativity**
 3.  $a + a_\circ = a$ : **additive identity**
@@ -16,6 +16,6 @@ $$
 $$
 > Equality Exist only when $b_i = \lambda a_i \text{  }(\forall  a_i,b_i)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg0OTkzNTksLTE3MTY5NDA3NTQsMT
-UxODU4OTEwMl19
+eyJoaXN0b3J5IjpbLTMxODEwNTEwNywtMTcxNjk0MDc1NCwxNT
+E4NTg5MTAyXX0=
 -->
